@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheetal Subbannavar</h1>
+<h1 align="center">Hi 👋, I'm Sheetal_Subbannavar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Java+Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;&center=true&width=500&height=45&repeat=true">

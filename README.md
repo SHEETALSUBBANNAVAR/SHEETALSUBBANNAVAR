@@ -194,5 +194,5 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 
 ---
 
-⭐ Consistent effort + real projects = success 🚀
+⭐ Consistent effort + real projects =  SUCCESS 🚀
 

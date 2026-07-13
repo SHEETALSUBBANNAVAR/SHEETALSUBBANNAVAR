@@ -135,7 +135,7 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheetal-shripal-subbannavar-16631a322/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SHEETAL-SUBBANNAVAR)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SHEETALSUBBANNAVAR)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheetalssubbu@gmail.com)
 
 ---

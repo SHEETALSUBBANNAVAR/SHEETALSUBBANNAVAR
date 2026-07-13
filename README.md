@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sheetal-Subbannavar&color=blue" />
-  <img src="https://img.shields.io/badge/DSA-100%2B%20Solved-brightgreen" />
-  <img src="https://img.shields.io/badge/GitHub-200%2B%20Contributions-blue" />
+  <img src="https://img.shields.io/badge/DSA-200%2B%20Solved-brightgreen" />
+  <img src="https://img.shields.io/badge/GitHub-600%2B%20Contributions-blue" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange" />
   <img src="https://img.shields.io/badge/Hackathon-2nd%20Place%20DBIT-yellow" />
 </p>

@@ -166,7 +166,7 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sheetal-Subbannavar&theme=github-dark&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=SHEETALSUBBANNAVAR&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
 ## 📈 Contribution Graph

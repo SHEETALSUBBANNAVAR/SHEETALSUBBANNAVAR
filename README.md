@@ -172,7 +172,7 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheetal-Subbannavar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&height=320" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHEETALSUBBANNAVAR&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&height=320" />
 </p>
 
 ## 📈 GitHub Activity

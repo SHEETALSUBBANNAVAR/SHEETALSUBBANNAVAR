@@ -41,7 +41,7 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 
 ## 💪 Core Strengths
 
-- Strong problem solving skills (100+ DSA problems solved)
+- Strong problem solving skills (200+ DSA problems solved)
 - 200+ contributions on GitHub with consistent activity
 - Backend development & REST API design
 - Clean, maintainable, and scalable code practices
@@ -72,8 +72,8 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 ## 🏆 Achievements
 
 - 🥈 Secured **2nd Place (Individual)** in *Hack The Front* event at DBIT (Frontend Hackathon)
-- Solved 100+ DSA problems on LeetCode  
-- 200+ contributions on GitHub  
+- Solved 200+ DSA problems on LeetCode  
+- 600+ contributions on GitHub  
 - Built multiple full stack projects independently  
 - Consistently improving coding and problem-solving skills  
 
@@ -177,7 +177,7 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 
 ## 📈 GitHub Activity
 
-- 🔥 200+ contributions in the last year
+- 🔥 600+ contributions in the last year
 - 🚀 Active in building and improving real-world projects
 - 💻 Regular commits showing consistency and discipline
 

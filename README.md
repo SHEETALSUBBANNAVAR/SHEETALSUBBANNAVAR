@@ -129,7 +129,7 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 * ✔ Learning **Trees & Graphs**
 * ✔ Focus on **optimizing time & space complexity**
 
-🔗 [LeetCode Profile](https://leetcode.com/sheetal_ssubbu)
+<img src="https://cdn.simpleicons.org/leetcode" width="25"/> **LeetCode:** https://leetcode.com/sheetal_ssubbu
 
 ---
 

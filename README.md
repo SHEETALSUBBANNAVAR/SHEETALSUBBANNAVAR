@@ -42,7 +42,7 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 ## 💪 Core Strengths
 
 - Strong problem solving skills (200+ DSA problems solved)
-- 200+ contributions on GitHub with consistent activity
+- 600+ contributions on GitHub with consistent activity
 - Backend development & REST API design
 - Clean, maintainable, and scalable code practices
 - Quick learner with consistent improvement mindset
@@ -124,7 +124,7 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 
 ## 🧠 DSA & Problem Solving
 
-* ✔ Solved **100+ problems on LeetCode**
+* ✔ Solved **200+ problems on LeetCode**
 * ✔ Strong in **Arrays, Strings, Recursion**
 * ✔ Learning **Trees & Graphs**
 * ✔ Focus on **optimizing time & space complexity**
